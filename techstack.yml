@@ -1,7 +1,8 @@
 repo_name: jpjcorreia/task-manager-api
 report_id: ad1aabb99aff9d504cd19ed050489394
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:07:42+00:00'
+timestamp: '2024-01-04T15:03:18+00:00'
 requested_by: jpjcorreia
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -28,7 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -40,6 +42,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -53,7 +56,7 @@ tools:
   category: Data Stores
   sub_category: Object Document Mapper (ODM)
   image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -65,6 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -76,7 +80,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -90,7 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 23:15:17.000000000 Z
@@ -104,7 +108,7 @@ tools:
   category: Monitoring
   sub_category: node.js Application Monitoring
   image_url: https://img.stackshare.io/service/5577/preview.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 23:15:17.000000000 Z
@@ -116,6 +120,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -129,7 +134,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -143,7 +148,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -164,7 +169,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -205,7 +210,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
@@ -219,11 +224,17 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 13:39:39.000000000 Z
   vulnerabilities:
+  - name: sharp vulnerability in libwebp dependency CVE-2023-4863
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-54xq-cgqr-rpm3
+    detected_date: Nov 17
+    severity: high
+    first_patched: 0.32.6
   - name: sharp vulnerable to Command Injection in post-installation over build environment
     cve_id: CVE-2022-29256
     cve_url: https://github.com/advisories/GHSA-gp95-ppv5-3jc5
@@ -240,7 +251,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/task-manager-api/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
