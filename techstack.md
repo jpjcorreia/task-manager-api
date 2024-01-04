@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 jpjcorreia/task-manager-api is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [MongoDB](http://www.mongodb.com/) – Databases
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -11,11 +12,13 @@ jpjcorreia/task-manager-api is built on the following main stack:
 - [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 jpjcorreia/task-manager-api is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -25,14 +28,15 @@ jpjcorreia/task-manager-api is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jpjcorreia/task-manager-api](https://github.com/jpjcorreia/task-manager-api)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/09/23 <br/>Report generated|
+|15<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -139,10 +143,10 @@ Full tech stack [here](/techstack.md)
 |[express](https://www.npmjs.com/express)|v4.17.1|04/26/20|João Correia |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v8.5.1|04/26/20|João Correia |MIT|[CVE-2022-23529](https://github.com/advisories/GHSA-27h2-hvpr-p74q) (High)<br/>[CVE-2022-23539](https://github.com/advisories/GHSA-8cf7-32gw-wr33) (Moderate)<br/>[CVE-2022-23540](https://github.com/advisories/GHSA-qwph-4952-7xr6) (Moderate)<br/>[CVE-2022-23541](https://github.com/advisories/GHSA-hjrf-2m68-5959) (Moderate)|
 |[multer](https://www.npmjs.com/multer)|v1.4.2|04/26/20|João Correia |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.23.0|04/26/20|João Correia |Apache-2.0|[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
+|[sharp](https://www.npmjs.com/sharp)|v0.23.0|04/26/20|João Correia |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)<br/>[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
 |[validator](https://www.npmjs.com/validator)|v10.11.0|04/26/20|João Correia |MIT|[CVE-2021-3765](https://github.com/advisories/GHSA-qgmg-gppg-76g5) (Moderate)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
