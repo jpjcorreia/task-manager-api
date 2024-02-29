@@ -2,7 +2,7 @@ repo_name: jpjcorreia/task-manager-api
 report_id: ad1aabb99aff9d504cd19ed050489394
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:17:23+00:00'
+timestamp: '2024-02-29T18:11:46+00:00'
 requested_by: jpjcorreia
 provider: github
 branch: master
@@ -85,7 +85,7 @@ tools:
   last_updated_by: João Correia
   last_updated_on: 2020-04-26 03:28:11.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 3.4.1
   license: MIT
